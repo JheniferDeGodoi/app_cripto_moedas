@@ -1,6 +1,6 @@
 # app_cripto_moedas
 
-A new Flutter project.
+Um aplicativo para monitorizar o valor das principais cripto moedas em tempo real, simular compra e gerenciamento da sua carteira
 
 ## Getting Started
 
